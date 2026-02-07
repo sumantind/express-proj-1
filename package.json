@@ -4,7 +4,7 @@
   "description": "This is first Express js Project",
   "license": "ISC",
   "author": "Sumant Kumar",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
